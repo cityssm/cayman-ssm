@@ -26,6 +26,15 @@ _Emphasized text_
 
 `Inline code`
 
+```javascript
+// This is a large code block
+
+const isTesting = true;
+if (!isTesting) {
+  console.log ("Do more testing!");
+}
+```
+
 | Column 1 | Column 2 |
 | -------- | -------- |
 | Value 1  | Value 2  |
